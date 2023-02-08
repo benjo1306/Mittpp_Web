@@ -80,7 +80,7 @@ Testiranje se sastoji od 6 testnih slučajeva:
   - Prijava postojećeg korisnika u sustav za kupovinu
   - Sortiranje po kategorijama proizvoda
   - Dodavanje proizvoda u košaricu za kupovinu
-  - Micanje proizvoda iz košarice za kupovinu
+  - Uklanjanje proizvoda iz košarice za kupovinu
   - Kontaktiranje store-a
   - Narudžba i kupovina proizvoda
 
